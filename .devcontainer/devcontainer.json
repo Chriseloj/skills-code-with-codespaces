@@ -13,5 +13,7 @@
                 "ms-python.python"
             ]
         }
-    }
+    },
+    
+    "postCreateCommand": "bash .devcontainer/postCreate.sh"
 }
